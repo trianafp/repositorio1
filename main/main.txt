@@ -1,11 +1,11 @@
 <html>
 <table>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>nombre</td>
+<td>apellido</td>
+<td>documento</td>
+<td>ciudad</td>
+<td>edad</td>
 </tr>
 <tr>
 <td></td>
